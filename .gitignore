@@ -1,2 +1,8 @@
 __pycache__/*
-*.py~
+dialog.py~
+inventory.py~
+login.glade~
+inventory.glade~
+login.py~
+main.py~
+user.py~
