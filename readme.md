@@ -6,4 +6,6 @@ Dependencies:
 - Python 3
 
 How to use the app:
-Type in your terminal "python main.py", our main startup script stored at main.py
+Type in your terminal "python main.py", our main startup script stored at main.py.
+
+GPL v3 licensed.
