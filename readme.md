@@ -6,6 +6,8 @@ Dependencies:
 - Python 3
 
 How to use the app:
-Type in your terminal "python main.py", our main startup script stored at main.py.
+Type in your terminal "python main.py", our main startup script stored at main.py. Due to the nature of in-memory 
+database backend. The app always start from the blank state, though we setup dummy account for each restart. 
+user <admin:test> when prompted.
 
 GPL v3 licensed.
